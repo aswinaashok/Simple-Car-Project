@@ -1,5 +1,5 @@
 .main-content {
-    background-image: url('D:/Quikspot/quickspot/public/car.jpeg');
+    background-image: url('../public/car.jpeg');
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px); /* Adjust height minus header height */

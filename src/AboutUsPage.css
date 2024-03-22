@@ -35,7 +35,7 @@
   }
 
   .aboutus-bg {
-    background-image: url('D:/Quikspot/quickspot/public/parking.jpg');
+    background-image: url('../public/parking.jpg');
     background-size: cover;
     background-position: center;
   }

@@ -70,7 +70,7 @@
   }
 
   .contact-bg {
-    background-image: url('D:/Quikspot/quickspot/public/contact.jpeg');
+    background-image: url('../public/contact.jpeg');
     background-size: cover;
     background-position: center;
   }
